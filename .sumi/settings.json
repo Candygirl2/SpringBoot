@@ -1,3 +1,4 @@
 {
-  "java.home": "/ide/lib/java/jdk18/"
+  "java.home": "/ide/lib/java/jdk18/",
+  "java.jdt.ls.vmargs":"-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Dosgi.locking=none"
 }
