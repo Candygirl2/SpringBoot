@@ -1,1 +1,1 @@
-run = "java Main.java"
+run = "mvn spring-boot:run"
